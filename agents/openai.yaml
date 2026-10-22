@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thread GC"
+  short_description: "Assess fixed-role task health and safe handoffs"
+  default_prompt: "Use $thread-gc to assess this project's fixed-role tasks from recent work and recommend any needed handoffs without changing tasks."
